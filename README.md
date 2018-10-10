@@ -9,8 +9,8 @@ To install python pip, go to https://pip.pypa.io/en/stable/installing/
 To install Jupyter Notebook, go to https://jupyter.readthedocs.io/en/latest/install.html
 
 ### Download and run:
-In the linux terminal, go to the directory you want to run the jupyter notebook. <br/>
-To download the jupyter notebook and an install script, copy and run this command line:
+In the linux terminal, go to the directory you want to download this Jupyter Notebook to. <br/>
+To download the jupyter notebook and the script for installing python packages, copy and run this command line:
 
 ```bash
 $ git clone https://github.com/anhydri/hessian.git
